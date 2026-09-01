@@ -1,0 +1,3 @@
+# Everything the daily workflow needs to re-scrape and re-render the heatmap.
+requests==2.32.3
+beautifulsoup4==4.12.3

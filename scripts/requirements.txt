@@ -1,0 +1,9 @@
+# Full local toolchain. The daily GitHub Action only needs requirements-daily.txt.
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# portrait pipeline (run locally only, when your photo changes)
+pillow>=10.2
+numpy>=1.26
+opencv-python>=4.9
+rembg>=2.0.56
