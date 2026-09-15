@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="194" viewBox="0 0 880 194">
 <style>@keyframes pop{from{opacity:0;transform:translateY(-3px)}to{opacity:1;transform:translateY(0)}}.c{opacity:0;animation:pop .34s ease-out forwards}text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8b949e}</style>
 <rect width="100%" height="100%" rx="10" fill="#0d1117"/>
-<text x="16" y="21" font-size="13" fill="#c9d1d9">580 contributions in the last year</text>
+<text x="16" y="21" font-size="13" fill="#c9d1d9">537 contributions in the last year</text>
 <text x="64" y="28" font-size="10">Oct</text>
 <text x="128" y="28" font-size="10">Nov</text>
 <text x="208" y="28" font-size="10">Dec</text>
@@ -371,15 +371,16 @@
 <rect class="c" x="816" y="98" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.65s"><title>1 on 2026-09-03</title></rect>
 <rect class="c" x="816" y="114" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.66s"><title>1 on 2026-09-04</title></rect>
 <rect class="c" x="816" y="130" width="13" height="13" rx="3" fill="#006d32" style="animation-delay:0.67s"><title>8 on 2026-09-05</title></rect>
-<rect class="c" x="832" y="34" width="13" height="13" rx="3" fill="#26a641" style="animation-delay:0.61s"><title>15 on 2026-09-06</title></rect>
-<rect class="c" x="832" y="50" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.62s"><title>4 on 2026-09-07</title></rect>
-<rect class="c" x="832" y="66" width="13" height="13" rx="3" fill="#006d32" style="animation-delay:0.64s"><title>7 on 2026-09-08</title></rect>
-<rect class="c" x="832" y="82" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.65s"><title>3 on 2026-09-09</title></rect>
-<rect class="c" x="832" y="98" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.66s"><title>5 on 2026-09-10</title></rect>
-<rect class="c" x="832" y="114" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.67s"><title>4 on 2026-09-11</title></rect>
-<rect class="c" x="832" y="130" width="13" height="13" rx="3" fill="#26a641" style="animation-delay:0.68s"><title>14 on 2026-09-12</title></rect>
-<rect class="c" x="848" y="34" width="13" height="13" rx="3" fill="#006d32" style="animation-delay:0.62s"><title>7 on 2026-09-13</title></rect>
-<rect class="c" x="848" y="50" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.64s"><title>5 on 2026-09-14</title></rect>
+<rect class="c" x="832" y="34" width="13" height="13" rx="3" fill="#006d32" style="animation-delay:0.61s"><title>13 on 2026-09-06</title></rect>
+<rect class="c" x="832" y="50" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.62s"><title>1 on 2026-09-07</title></rect>
+<rect class="c" x="832" y="66" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.64s"><title>1 on 2026-09-08</title></rect>
+<rect class="c" x="832" y="82" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.65s"><title>1 on 2026-09-09</title></rect>
+<rect class="c" x="832" y="98" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.66s"><title>1 on 2026-09-10</title></rect>
+<rect class="c" x="832" y="114" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.67s"><title>1 on 2026-09-11</title></rect>
+<rect class="c" x="832" y="130" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.68s"><title>1 on 2026-09-12</title></rect>
+<rect class="c" x="848" y="34" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.62s"><title>1 on 2026-09-13</title></rect>
+<rect class="c" x="848" y="50" width="13" height="13" rx="3" fill="#0e4429" style="animation-delay:0.64s"><title>1 on 2026-09-14</title></rect>
+<rect class="c" x="848" y="66" width="13" height="13" rx="3" fill="#161b22" style="animation-delay:0.65s"><title>0 on 2026-09-15</title></rect>
 <text x="739" y="174" font-size="10" text-anchor="end">Less</text>
 <rect x="745" y="164" width="13" height="13" rx="3" fill="#161b22"/>
 <rect x="762" y="164" width="13" height="13" rx="3" fill="#0e4429"/>
